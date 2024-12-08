@@ -12,5 +12,5 @@ a project that handel inventory items create, update, view and delete also it tr
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
-   cd your-repository-name
+   git clone https://github.com/phantos24/Inventory_Management.git
+   cd Inventory_Management
